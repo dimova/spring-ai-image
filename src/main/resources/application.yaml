@@ -5,3 +5,8 @@ spring:
   ai:
     openai:
       api-key: ${OPENAI_API_KEY}
+
+app:
+  openai:
+    image-model: gpt-image-1
+    image-path: /v1/images/generations
