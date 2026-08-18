@@ -40,3 +40,4 @@ This repository contains source code examples used to support my on-line courses
 * Like Spring Framework Guru on [Facebook](https://www.facebook.com/springframeworkguru/)
 * Follow Spring Framework Guru on [Twitter](https://twitter.com/spring_guru)
 * Connect with John Thompson on [LinkedIn](http://www.linkedin.com/in/springguru)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9db3ede2-4d94-4190-bd31-d63f5929b356" />
