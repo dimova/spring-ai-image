@@ -1,3 +1,6 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/71965bf3-58e5-4fb9-aa50-85ee88ceb661" />
+
+
 # Spring AI Image
 
 This repository contains source code examples used to support my on-line courses about the Spring Framework.
